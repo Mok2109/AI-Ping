@@ -1,0 +1,40 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading1{
+    float: none;
+    border: 1px solid orchid;
+}
+
+canvas{
+    position: center;
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+}
+
+#restart{
+    float: none;
+    border: 1px solid green;
+}
+
+video
+{
+	background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
